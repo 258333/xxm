@@ -1,0 +1,1 @@
+import{o as e,c as o,i as r}from"./index-CPlNJtwH.js";import{_ as s}from"./_plugin-vue_export-helper.BCo6x5W8.js";const t=s({},[["render",function(s,t){const n=r;return e(),o(n,{class:"notice"})}]]);export{t as default};
